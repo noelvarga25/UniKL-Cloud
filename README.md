@@ -35,7 +35,7 @@
 
 6. **Initialise the database:**
    ```bash
-   az containerapp exec --name twenty-server -g unikl-cloud --command "yarn database:init:prod"
+   az containerapp exec --name twenty-server -g <resource_groupe_name> --command "yarn database:init:prod"
    ```
 
 7. **Get frontend URL:**
