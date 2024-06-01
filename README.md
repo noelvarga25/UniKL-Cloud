@@ -4,7 +4,7 @@
 
 - Go to the official website and go to the [documentation](https://docs.twenty.com/start/self-hosting/cloud-providers) section where you will find all the files.
 - Copy all the necessary files into a directory and edit them to fit your project if needed. (I only changed the name, server locations and server type to have a stronger back-end)
-- Install all required dependencies like [Terraform]([https://developer.hashicorp.com/terraform/install](https://developer.hashicorp.com/terraform/install)) and [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
+- Install all required dependencies like [Terraform]([https://developer.hashicorp.com/terraform/install](https://developer.hashicorp.com/terraform/install) and [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 
 ## Mandatory setup
 
