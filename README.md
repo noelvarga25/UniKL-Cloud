@@ -1,3 +1,8 @@
+# Some useful links:
+
+- [The Project Report](https://docs.google.com/document/d/1HdIH5nt40STHYGwaK7gLC8aL8-BEocsBoYgn7F8lIxY/edit?usp=sharing)
+- [Deployment Video](https://youtu.be/g_r43a4UJIE)
+
 # Steps to install TwentyCRM on Azure
 
 ## Preparation
